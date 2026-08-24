@@ -1,0 +1,15 @@
+{
+    "version": "0.1.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/project-starkite/starkite/releases/download/v0.1.0/kite_0.1.0_windows_amd64.zip",
+            "bin": [
+                "kite.exe"
+            ],
+            "hash": "8c326cb9e028eb6e96b13cde7327a20a53b176d6da9bba6ce481f775a4c2c517"
+        }
+    },
+    "homepage": "https://starkite.ai",
+    "license": "Apache-2.0",
+    "description": "Secure scripting runtime for operational and agentic automation with Starlark"
+}
